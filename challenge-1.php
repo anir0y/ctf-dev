@@ -28,7 +28,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     </p>
 <div class="challenge-body">
     <pre>
-    <form action="verify.php" method="post">
+    <form action="#" method="post">
     <h1>Network security - I </h1>
     Flag : <input type="text" name="flag-1"><br>
     <input type="submit">
