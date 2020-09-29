@@ -3,8 +3,8 @@
 server with default setting (user 'root' with no password) */
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'dbadmin');
-define('DB_PASSWORD', 'FuCK!DBA69');
-define('DB_NAME', 'devdb');
+define('DB_PASSWORD', 'Passw0rd!20db');
+define('DB_NAME', 'ctfMaster');
  
 /* Attempt to connect to MySQL database */
 try{

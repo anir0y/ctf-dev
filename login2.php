@@ -129,12 +129,12 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
           <div class="login-options">
 
             <p class="login-text">You can also login with:</p>
-            <button class="button">Sign up</button>
+            <a href="#" class="btn btn-info" role="button">Link Button</a>
 
             <div class="login-icons">
               <a href="#"><i class="fab fa-facebook-square"></i></a>
               <a href="#"><i class="fab fa-google"></i></a>
-              <a href="#no"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
             </div>
 
           </div>
