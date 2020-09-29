@@ -100,7 +100,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
       <section class="form-wrapper">
         <header class="form-header">
           <a href="#"><i class="fas fa-arrow-left gray"></i></a>
-          <a href="#" class="register-link gray">Register</a>
+          <a href="register.php" class="register-link gray">Register</a>
         </header>
 
         <!-- Contenedor del formulario y sus mensajes -->
